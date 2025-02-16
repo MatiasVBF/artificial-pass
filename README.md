@@ -1,0 +1,2 @@
+# artificial-pass
+artificial intelligence
